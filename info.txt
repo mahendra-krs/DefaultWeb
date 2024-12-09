@@ -1,2 +1,5 @@
 This is master commit# 1
+
+This is master commit# 2
+
 New commit should come here.
