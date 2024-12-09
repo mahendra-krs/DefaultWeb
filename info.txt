@@ -2,4 +2,6 @@ This is master commit# 1
 
 This is master commit# 2
 
+This is master commit# 3
+
 New commit should come here.
